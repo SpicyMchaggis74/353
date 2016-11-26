@@ -1,9 +1,6 @@
 # Sean Holmes
 import sys
 
-#is this on github?
-
-
 def encrypt(givenText, givenRotation):
     cipherText = ""  # encrypted text     //string
     givenText = givenText.lower()  # get given text to lowercase
